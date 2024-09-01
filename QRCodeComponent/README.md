@@ -2,7 +2,7 @@
 
 ## Description
 
-Challenge is to use HTML and CSS and develop a QR Code component that is fixed in size for both Desktop and Mobile versions using the image ![QRCode component](../images/image-qr-code.png)
+Challenge is to use HTML and CSS and develop a QR Code component that is fixed in size for both Desktop and Mobile versions using the image ![QRCode component](https://github.com/harimandala-ose/FrontendMentorIO/blob/master/QRCodeComponent/images/image-qr-code.png)
 
 ### Steps taken and issues faced
 

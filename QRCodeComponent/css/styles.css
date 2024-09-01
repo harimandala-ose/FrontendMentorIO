@@ -1,0 +1,40 @@
+body {
+  background-color: aliceblue;
+}
+
+.parentdiv {
+  position: absolute;
+  top: 50%;
+  margin-top: -160px;
+  /* Half of #content height */
+  left: 0;
+  width: 100%;
+}
+
+.out-container {
+  background-color: white;
+  border-radius: 10px;
+  max-width: 200px;
+  height: 320px;
+  margin: auto;
+}
+
+.out-container h2 {
+  text-align: center;
+  font-size: 14px;
+  font-weight: bold;
+}
+
+.out-container h3 {
+  text-align: center;
+  font-size: 10px;
+  font-weight: normal;
+  padding: 10px;
+}
+
+.in-container img {
+  width: 100%;
+  padding: 10px;
+  border-radius: 15px;
+  box-sizing: border-box;
+}
